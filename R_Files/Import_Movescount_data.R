@@ -1,4 +1,4 @@
-rankall <- function(gpxFile, kmlFile, csvFile, date_dir, gender = "M", weight = 146, age = 33, ){
+rankall <- function(csvFile, gpxFile = FALSE, kmlFile = FALSE, gender = "M", weight = 146, age = 33, HR.mode = "calculate"){
 
 library(rgdal)
 library(maptools)
@@ -6,6 +6,45 @@ gpclibPermit()
 library(ggmap)
 library(ggplot2)
 library(plyr)
+library(stringr)
+
+
+# Use temporary GPX file while creating
+
+gpxFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.gpx"
+kmlFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.kml"
+
+
+########### CHECK INPUTS #################################
+
+# Get File Names for KML file and/or GPS file if requested
+
+fileTitle = unlist(strsplit(file,split=".csv"))
+
+if (gpxFile = TRUE){
+  gpxFile = str_join(fileTitle,".gpx")
+  
+  # Load in gpx data
+  gpx.raw <- readOGR(dsn = gpxFile, layer = "tracks")
+  
+  # Extract coordinates from gpx data
+  cords <- coordinates(gpx.raw)
+  reduce.cords <- lapply(cords, function(x) do.call("rbind", x))
+  reduce.cords = reduce.cords[[1]]
+  # Generate GPS matrix
+  gpsMat <- reduce.cords
+}
+
+if (kmlFile = TRUE){
+  kmlFle = str_join(fileTitle,".kml")
+  
+  # Load in kml data with altitude values
+  kml.raw <- getKMLcoordinates(kmlFile, ignoreAltitude = FALSE)
+  # Generate KML matrix
+  kmlMat = matrix(unlist(kml.raw), ncol = 3, byrow = FALSE)
+}
+
+# Check Gender Data
 
 if (gender == "M" | gender == "m") {
   g = 1
@@ -15,27 +54,6 @@ if (gender == "M" | gender == "m") {
   print("incorrect selection")
 }
 
-# Error check all same day and same activity
-
-# Use temporary GPX file while creating
-
-gpxFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.gpx"
-kmlFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.kml"
-
-# Load in gpx data
-gpx.raw <- readOGR(dsn = gpxFile, layer = "tracks")
-
-# Extract coordinates from gpx data
-cords <- coordinates(gpx.raw)
-reduce.cords <- lapply(cords, function(x) do.call("rbind", x))
-reduce.cords = reduce.cords[[1]]
-# Generate GPS matrix
-gpsMat <- reduce.cords
-
-# Load in kml data with altitude values
-kml.raw <- getKMLcoordinates(kmlFile, ignoreAltitude = FALSE)
-# Generate KML matrix
-kmlMat = matrix(unlist(kml.raw), ncol = 3, byrow = FALSE)
 
 # Load in CSV data
 # Remove lots of extraneous values

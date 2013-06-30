@@ -1,0 +1,3257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" version="1.1" creator="Movescount - http://www.movescount.com" xmlns="http://www.topografix.com/GPX/1/1">
+   <trk>
+      <name>Move</name>
+      <trkseg>
+         <trkpt lat="39.746881" lon="-104.894791">
+            <ele>1640</ele>
+            <time>2013-06-25T01:18:01.000Z</time>
+            <extensions>
+               <gpxdata:hr>109</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>0</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.746933" lon="-104.894919">
+            <ele>1640</ele>
+            <time>2013-06-25T01:18:08.470Z</time>
+            <extensions>
+               <gpxdata:hr>108.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>12.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.746945" lon="-104.895032">
+            <ele>1640</ele>
+            <time>2013-06-25T01:18:15.470Z</time>
+            <extensions>
+               <gpxdata:hr>111</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>22.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747008" lon="-104.895087">
+            <ele>1639</ele>
+            <time>2013-06-25T01:18:22.470Z</time>
+            <extensions>
+               <gpxdata:hr>109</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>30.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747077" lon="-104.895101">
+            <ele>1639</ele>
+            <time>2013-06-25T01:18:27.470Z</time>
+            <extensions>
+               <gpxdata:hr>113.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>38.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747142" lon="-104.895138">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:32.470Z</time>
+            <extensions>
+               <gpxdata:hr>114</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>46.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747222" lon="-104.895155">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:37.470Z</time>
+            <extensions>
+               <gpxdata:hr>109.299968</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>55.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.74731" lon="-104.895162">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:42.460Z</time>
+            <extensions>
+               <gpxdata:hr>108.911768396747</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>65.1176839674731</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.74739" lon="-104.895213">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:48.470Z</time>
+            <extensions>
+               <gpxdata:hr>109</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>75.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747451" lon="-104.895168">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:51.420Z</time>
+            <extensions>
+               <gpxdata:hr>109.180943789543</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>82.5524496836562</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747511" lon="-104.895141">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:54.470Z</time>
+            <extensions>
+               <gpxdata:hr>108</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>90.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747561" lon="-104.895111">
+            <ele>1638</ele>
+            <time>2013-06-25T01:18:57.470Z</time>
+            <extensions>
+               <gpxdata:hr>109.8800128</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>96.6400384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747603" lon="-104.895049">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>112.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>103.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747625" lon="-104.894997">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:04.470Z</time>
+            <extensions>
+               <gpxdata:hr>111.1199872</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>108.700032</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747635" lon="-104.894891">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:08.470Z</time>
+            <extensions>
+               <gpxdata:hr>111.921569119566</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>117.294122076097</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747647" lon="-104.894789">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:11.470Z</time>
+            <extensions>
+               <gpxdata:hr>117</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>126.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.74765" lon="-104.894694">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:14.470Z</time>
+            <extensions>
+               <gpxdata:hr>120.8800128</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>134.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747657" lon="-104.894594">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:17.420Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>142.989877484914</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747664" lon="-104.894499">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:20.470Z</time>
+            <extensions>
+               <gpxdata:hr>128.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>151.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747667" lon="-104.894404">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>133</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>159.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747668" lon="-104.894307">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:26.420Z</time>
+            <extensions>
+               <gpxdata:hr>134.880431304348</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>167.043450434783</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747673" lon="-104.894241">
+            <ele>1637</ele>
+            <time>2013-06-25T01:19:28.470Z</time>
+            <extensions>
+               <gpxdata:hr>136</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>173.6400384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747668" lon="-104.894181">
+            <ele>1636.0599936</ele>
+            <time>2013-06-25T01:19:30.470Z</time>
+            <extensions>
+               <gpxdata:hr>137</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>178.700032</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747668" lon="-104.894092">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:33.470Z</time>
+            <extensions>
+               <gpxdata:hr>138.921569119566</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>186.37255295653</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747751" lon="-104.89402">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:39.470Z</time>
+            <extensions>
+               <gpxdata:hr>139</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>197.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747855" lon="-104.894047">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:45.470Z</time>
+            <extensions>
+               <gpxdata:hr>142.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>209.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747935" lon="-104.894054">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:49.470Z</time>
+            <extensions>
+               <gpxdata:hr>143</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>218.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748025" lon="-104.89409">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:54.470Z</time>
+            <extensions>
+               <gpxdata:hr>142</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>228.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748112" lon="-104.894101">
+            <ele>1636</ele>
+            <time>2013-06-25T01:19:58.470Z</time>
+            <extensions>
+               <gpxdata:hr>142.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>238.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748177" lon="-104.894103">
+            <ele>1635</ele>
+            <time>2013-06-25T01:20:01.400Z</time>
+            <extensions>
+               <gpxdata:hr>143.8700032</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>245.0900224</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748243" lon="-104.894105">
+            <ele>1635</ele>
+            <time>2013-06-25T01:20:04.470Z</time>
+            <extensions>
+               <gpxdata:hr>144.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>252.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748312" lon="-104.8941">
+            <ele>1635</ele>
+            <time>2013-06-25T01:20:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>145.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>260.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748379" lon="-104.894099">
+            <ele>1635.9400064</ele>
+            <time>2013-06-25T01:20:10.470Z</time>
+            <extensions>
+               <gpxdata:hr>147.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>267.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748442" lon="-104.894097">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:13.470Z</time>
+            <extensions>
+               <gpxdata:hr>147.0599936</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>275.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748534" lon="-104.894089">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:17.420Z</time>
+            <extensions>
+               <gpxdata:hr>147.770853333333</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>284.854266666667</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748602" lon="-104.894095">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:20.470Z</time>
+            <extensions>
+               <gpxdata:hr>147</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>292.575804199421</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.74866" lon="-104.894096">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>148.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>299.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748754" lon="-104.894087">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:27.470Z</time>
+            <extensions>
+               <gpxdata:hr>150</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>309.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748866" lon="-104.894091">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:32.470Z</time>
+            <extensions>
+               <gpxdata:hr>149</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>322.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748976" lon="-104.894085">
+            <ele>1636</ele>
+            <time>2013-06-25T01:20:37.570Z</time>
+            <extensions>
+               <gpxdata:hr>150</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>323.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749074" lon="-104.894082">
+            <ele>1635</ele>
+            <time>2013-06-25T01:20:41.570Z</time>
+            <extensions>
+               <gpxdata:hr>148</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>335.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749193" lon="-104.894071">
+            <ele>1635</ele>
+            <time>2013-06-25T01:20:46.560Z</time>
+            <extensions>
+               <gpxdata:hr>146.0600064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>346.3900416</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749312" lon="-104.894078">
+            <ele>1634</ele>
+            <time>2013-06-25T01:20:51.570Z</time>
+            <extensions>
+               <gpxdata:hr>150.08</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>359.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749419" lon="-104.894091">
+            <ele>1634</ele>
+            <time>2013-06-25T01:20:56.570Z</time>
+            <extensions>
+               <gpxdata:hr>152.96</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>372.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749516" lon="-104.894083">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:00.560Z</time>
+            <extensions>
+               <gpxdata:hr>152</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>384.3300352</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749623" lon="-104.89408">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:05.570Z</time>
+            <extensions>
+               <gpxdata:hr>153.04</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>395.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749726" lon="-104.894077">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:10.570Z</time>
+            <extensions>
+               <gpxdata:hr>153.96</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>407.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749847" lon="-104.894059">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:15.570Z</time>
+            <extensions>
+               <gpxdata:hr>153.039215440217</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>419.509800722819</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749944" lon="-104.894037">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:19.570Z</time>
+            <extensions>
+               <gpxdata:hr>155</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>432.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750038" lon="-104.894043">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>154</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>443.431369842385</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750135" lon="-104.894051">
+            <ele>1634</ele>
+            <time>2013-06-25T01:21:27.570Z</time>
+            <extensions>
+               <gpxdata:hr>153</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>454.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75023" lon="-104.89405">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:31.570Z</time>
+            <extensions>
+               <gpxdata:hr>154.96</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>464.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75034" lon="-104.894048">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:36.570Z</time>
+            <extensions>
+               <gpxdata:hr>154</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>475.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750471" lon="-104.894053">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:42.570Z</time>
+            <extensions>
+               <gpxdata:hr>155</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>487.6</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750574" lon="-104.894071">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:46.570Z</time>
+            <extensions>
+               <gpxdata:hr>155.04</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>502.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75067" lon="-104.894065">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:50.560Z</time>
+            <extensions>
+               <gpxdata:hr>155</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>513</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750776" lon="-104.894068">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:54.570Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>524.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750884" lon="-104.89407">
+            <ele>1633</ele>
+            <time>2013-06-25T01:21:59.570Z</time>
+            <extensions>
+               <gpxdata:hr>155.979598234111</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>536.244821190669</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75101" lon="-104.893877">
+            <ele>1633</ele>
+            <time>2013-06-25T01:22:06.570Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>548.88</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751024" lon="-104.893754">
+            <ele>1632</ele>
+            <time>2013-06-25T01:22:10.570Z</time>
+            <extensions>
+               <gpxdata:hr>155.04</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>570.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751043" lon="-104.893626">
+            <ele>1632</ele>
+            <time>2013-06-25T01:22:14.570Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>580.431369842385</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751043" lon="-104.893513">
+            <ele>1632</ele>
+            <time>2013-06-25T01:22:18.570Z</time>
+            <extensions>
+               <gpxdata:hr>156.96</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>591.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751039" lon="-104.893371">
+            <ele>1631</ele>
+            <time>2013-06-25T01:22:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>601</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751032" lon="-104.893223">
+            <ele>1631</ele>
+            <time>2013-06-25T01:22:28.570Z</time>
+            <extensions>
+               <gpxdata:hr>158</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>613.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751049" lon="-104.893081">
+            <ele>1631</ele>
+            <time>2013-06-25T01:22:33.550Z</time>
+            <extensions>
+               <gpxdata:hr>158</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>626</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751056" lon="-104.892952">
+            <ele>1631</ele>
+            <time>2013-06-25T01:22:38.570Z</time>
+            <extensions>
+               <gpxdata:hr>158</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>638.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751233" lon="-104.892899">
+            <ele>1631</ele>
+            <time>2013-06-25T01:22:50.550Z</time>
+            <extensions>
+               <gpxdata:hr>160</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>649</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751358" lon="-104.892909">
+            <ele>1632</ele>
+            <time>2013-06-25T01:22:56.570Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>669.56</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751504" lon="-104.892902">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:03.470Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>698.9801088</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75162" lon="-104.892928">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:08.470Z</time>
+            <extensions>
+               <gpxdata:hr>160</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>712.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75174" lon="-104.892932">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:13.470Z</time>
+            <extensions>
+               <gpxdata:hr>161</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>725.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751875" lon="-104.892916">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:19.470Z</time>
+            <extensions>
+               <gpxdata:hr>162.9400064</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>740.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752018" lon="-104.89293">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:25.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>756.0401024</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75214" lon="-104.892962">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:30.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>770.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752248" lon="-104.893014">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:35.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>783.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752354" lon="-104.89307">
+            <ele>1631</ele>
+            <time>2013-06-25T01:23:40.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>795.980398554362</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752455" lon="-104.893152">
+            <ele>1630</ele>
+            <time>2013-06-25T01:23:45.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>809.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752548" lon="-104.893234">
+            <ele>1630</ele>
+            <time>2013-06-25T01:23:50.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>821.058829434796</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752662" lon="-104.893298">
+            <ele>1630</ele>
+            <time>2013-06-25T01:23:55.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>835.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75279" lon="-104.893373">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>851.0401024</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752894" lon="-104.893424">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:06.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>863.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752995" lon="-104.893515">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>877.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.7531" lon="-104.893572">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:17.410Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>888.530602648834</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753193" lon="-104.893647">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:22.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>902.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753297" lon="-104.893709">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:27.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>914.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753356" lon="-104.893745">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:30.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>922.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753412" lon="-104.893779">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:33.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>928.529414717398</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753485" lon="-104.893761">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:38.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>937.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75355" lon="-104.893609">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:44.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>952.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753605" lon="-104.893458">
+            <ele>1630</ele>
+            <time>2013-06-25T01:24:50.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.921569119566</gpxdata:hr>
+               <gpxdata:temp>30.4078427364927</gpxdata:temp>
+               <gpxdata:distance>965.901967673928</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753648" lon="-104.89333">
+            <ele>1629</ele>
+            <time>2013-06-25T01:24:55.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>978.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75369" lon="-104.893192">
+            <ele>1629.9400064</ele>
+            <time>2013-06-25T01:25:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>991.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753739" lon="-104.893069">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:06.420Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1001.76526214049</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753758" lon="-104.892991">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:09.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1009.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753777" lon="-104.892917">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1016.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753791" lon="-104.892847">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:15.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1022.6400384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75382" lon="-104.892603">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:25.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1042.7401344</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753833" lon="-104.892367">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:35.460Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1063.5299328</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753859" lon="-104.892131">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:44.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1083.800128</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753879" lon="-104.891938">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:51.360Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1099.05105665996</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753893" lon="-104.891802">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:56.470Z</time>
+            <extensions>
+               <gpxdata:hr>166.921569119566</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1112.13726031523</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753904" lon="-104.891717">
+            <ele>1630</ele>
+            <time>2013-06-25T01:25:59.470Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1119.96301037037</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753915" lon="-104.891631">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:02.570Z</time>
+            <extensions>
+               <gpxdata:hr>167</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1121.28</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75392" lon="-104.891472">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:08.570Z</time>
+            <extensions>
+               <gpxdata:hr>167</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>1128.56</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753926" lon="-104.891339">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:13.550Z</time>
+            <extensions>
+               <gpxdata:hr>167</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1142</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753941" lon="-104.891203">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:18.530Z</time>
+            <extensions>
+               <gpxdata:hr>167</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1153</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753928" lon="-104.891077">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>168</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1165.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753922" lon="-104.890942">
+            <ele>1631</ele>
+            <time>2013-06-25T01:26:28.570Z</time>
+            <extensions>
+               <gpxdata:hr>168</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1176.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75392" lon="-104.890818">
+            <ele>1632</ele>
+            <time>2013-06-25T01:26:33.550Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1187</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753916" lon="-104.8907">
+            <ele>1632</ele>
+            <time>2013-06-25T01:26:45.570Z</time>
+            <extensions>
+               <gpxdata:hr>161</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1198.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753913" lon="-104.890593">
+            <ele>1632</ele>
+            <time>2013-06-25T01:26:51.570Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1208.36</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753918" lon="-104.89044">
+            <ele>1632</ele>
+            <time>2013-06-25T01:26:59.590Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1217.27092</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753915" lon="-104.890309">
+            <ele>1631</ele>
+            <time>2013-06-25T01:27:06.570Z</time>
+            <extensions>
+               <gpxdata:hr>152.96</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>1230.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753916" lon="-104.890216">
+            <ele>1632</ele>
+            <time>2013-06-25T01:27:11.570Z</time>
+            <extensions>
+               <gpxdata:hr>149.96</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1242.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753908" lon="-104.890111">
+            <ele>1632</ele>
+            <time>2013-06-25T01:27:17.570Z</time>
+            <extensions>
+               <gpxdata:hr>145.96</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1250.36</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753902" lon="-104.890019">
+            <ele>1632</ele>
+            <time>2013-06-25T01:27:22.570Z</time>
+            <extensions>
+               <gpxdata:hr>143.96</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1259.28</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75388" lon="-104.889933">
+            <ele>1632</ele>
+            <time>2013-06-25T01:27:27.570Z</time>
+            <extensions>
+               <gpxdata:hr>141.96</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1266.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753862" lon="-104.889848">
+            <ele>1631</ele>
+            <time>2013-06-25T01:27:32.570Z</time>
+            <extensions>
+               <gpxdata:hr>140</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1274.31067864644</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753834" lon="-104.889703">
+            <ele>1631</ele>
+            <time>2013-06-25T01:27:40.470Z</time>
+            <extensions>
+               <gpxdata:hr>134</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1294.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753816" lon="-104.889612">
+            <ele>1631</ele>
+            <time>2013-06-25T01:27:45.470Z</time>
+            <extensions>
+               <gpxdata:hr>134</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1302.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753799" lon="-104.889537">
+            <ele>1631</ele>
+            <time>2013-06-25T01:27:49.470Z</time>
+            <extensions>
+               <gpxdata:hr>135</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1308.6400384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75379" lon="-104.889467">
+            <ele>1630</ele>
+            <time>2013-06-25T01:27:53.470Z</time>
+            <extensions>
+               <gpxdata:hr>129.0599936</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1314.6400384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753784" lon="-104.889353">
+            <ele>1630</ele>
+            <time>2013-06-25T01:27:59.470Z</time>
+            <extensions>
+               <gpxdata:hr>127</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1324.21569119566</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753778" lon="-104.889225">
+            <ele>1631</ele>
+            <time>2013-06-25T01:28:06.470Z</time>
+            <extensions>
+               <gpxdata:hr>128.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1335.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753778" lon="-104.889122">
+            <ele>1631</ele>
+            <time>2013-06-25T01:28:11.470Z</time>
+            <extensions>
+               <gpxdata:hr>122.0599936</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1344.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753776" lon="-104.889024">
+            <ele>1631</ele>
+            <time>2013-06-25T01:28:15.470Z</time>
+            <extensions>
+               <gpxdata:hr>127.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1352.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753762" lon="-104.888917">
+            <ele>1631</ele>
+            <time>2013-06-25T01:28:19.470Z</time>
+            <extensions>
+               <gpxdata:hr>133.8800128</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1362.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753755" lon="-104.888792">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:24.470Z</time>
+            <extensions>
+               <gpxdata:hr>136</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1372.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753747" lon="-104.888657">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:29.470Z</time>
+            <extensions>
+               <gpxdata:hr>138</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1384.0588294348</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753755" lon="-104.888525">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:34.420Z</time>
+            <extensions>
+               <gpxdata:hr>141</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1394.76526214049</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753771" lon="-104.888387">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:39.470Z</time>
+            <extensions>
+               <gpxdata:hr>146</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1407.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75381" lon="-104.888236">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:45.470Z</time>
+            <extensions>
+               <gpxdata:hr>148</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1421.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753835" lon="-104.888082">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:51.420Z</time>
+            <extensions>
+               <gpxdata:hr>148.88776416499</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1433.54093414488</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753843" lon="-104.887918">
+            <ele>1630</ele>
+            <time>2013-06-25T01:28:57.470Z</time>
+            <extensions>
+               <gpxdata:hr>150.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>1448.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753865" lon="-104.887748">
+            <ele>1629</ele>
+            <time>2013-06-25T01:29:04.420Z</time>
+            <extensions>
+               <gpxdata:hr>153</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1462.31626655521</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753887" lon="-104.887612">
+            <ele>1629</ele>
+            <time>2013-06-25T01:29:09.470Z</time>
+            <extensions>
+               <gpxdata:hr>154.0599936</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1475.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753907" lon="-104.887449">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:15.470Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1489.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753922" lon="-104.88732">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:20.470Z</time>
+            <extensions>
+               <gpxdata:hr>158.870376296296</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1499.57413925926</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753934" lon="-104.887245">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>158.04</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1501.28</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753953" lon="-104.887174">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:26.570Z</time>
+            <extensions>
+               <gpxdata:hr>158.04</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1508.24</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753956" lon="-104.886926">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:36.570Z</time>
+            <extensions>
+               <gpxdata:hr>161</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1514.82352424455</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75398" lon="-104.886683">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:45.570Z</time>
+            <extensions>
+               <gpxdata:hr>161</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1535.84</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753983" lon="-104.886594">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:48.570Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>1556.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753988" lon="-104.886452">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:53.570Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>1564.4705852826</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753981" lon="-104.886323">
+            <ele>1630</ele>
+            <time>2013-06-25T01:29:58.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>1586.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753973" lon="-104.886244">
+            <ele>1629.0599936</ele>
+            <time>2013-06-25T01:30:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>1593.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753954" lon="-104.885995">
+            <ele>1629</ele>
+            <time>2013-06-25T01:30:11.470Z</time>
+            <extensions>
+               <gpxdata:hr>162.078430880434</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>1613.35295151089</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753929" lon="-104.885792">
+            <ele>1629</ele>
+            <time>2013-06-25T01:30:19.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>1631.9201152</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753916" lon="-104.885638">
+            <ele>1630</ele>
+            <time>2013-06-25T01:30:25.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1645.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753902" lon="-104.885507">
+            <ele>1630</ele>
+            <time>2013-06-25T01:30:30.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.9400064</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1657.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753885" lon="-104.885375">
+            <ele>1630</ele>
+            <time>2013-06-25T01:30:35.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1668.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753861" lon="-104.885235">
+            <ele>1629.0599936</ele>
+            <time>2013-06-25T01:30:41.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1680.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753839" lon="-104.885081">
+            <ele>1629</ele>
+            <time>2013-06-25T01:30:47.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1694.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753806" lon="-104.884938">
+            <ele>1629</ele>
+            <time>2013-06-25T01:30:53.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1706.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753781" lon="-104.884779">
+            <ele>1629</ele>
+            <time>2013-06-25T01:30:59.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.903852307692</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1719.65393230769</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753751" lon="-104.884617">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:06.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1735.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753731" lon="-104.884471">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1747.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753719" lon="-104.88432">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:18.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1760.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753708" lon="-104.884162">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:24.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>1774.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753704" lon="-104.884009">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:30.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>29.8059986199463</gpxdata:temp>
+               <gpxdata:distance>1787.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753712" lon="-104.883845">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:36.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.921569119566</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1800.90196767393</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753712" lon="-104.883687">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:42.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1814.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753707" lon="-104.883551">
+            <ele>1629</ele>
+            <time>2013-06-25T01:31:47.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1826.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753688" lon="-104.883409">
+            <ele>1628</ele>
+            <time>2013-06-25T01:31:53.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.078430880434</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1838.0588294348</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753702" lon="-104.883244">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:00.420Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1852.31626655521</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753696" lon="-104.88308">
+            <ele>1627</ele>
+            <time>2013-06-25T01:32:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1867.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75371" lon="-104.882903">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:14.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>1882.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753731" lon="-104.88272">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:21.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>1898.0401024</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753738" lon="-104.88261">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:25.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>1907.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753742" lon="-104.882454">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:31.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>1921.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753742" lon="-104.882303">
+            <ele>1628</ele>
+            <time>2013-06-25T01:32:37.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>1933.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753753" lon="-104.882127">
+            <ele>1629</ele>
+            <time>2013-06-25T01:32:44.470Z</time>
+            <extensions>
+               <gpxdata:hr>165.921569119566</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>1948.74510591306</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75377" lon="-104.881939">
+            <ele>1629</ele>
+            <time>2013-06-25T01:32:51.420Z</time>
+            <extensions>
+               <gpxdata:hr>166.880445217391</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>1964.08712347826</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753787" lon="-104.881767">
+            <ele>1629</ele>
+            <time>2013-06-25T01:32:57.460Z</time>
+            <extensions>
+               <gpxdata:hr>166.920791828251</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>1979.81187742377</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753814" lon="-104.881619">
+            <ele>1629</ele>
+            <time>2013-06-25T01:33:02.360Z</time>
+            <extensions>
+               <gpxdata:hr>166.826532744704</gpxdata:hr>
+               <gpxdata:temp>29.5</gpxdata:temp>
+               <gpxdata:distance>1991.74492568115</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753844" lon="-104.881477">
+            <ele>1629</ele>
+            <time>2013-06-25T01:33:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>167.939399816402</gpxdata:hr>
+               <gpxdata:temp>29.5</gpxdata:temp>
+               <gpxdata:distance>2005.27279779683</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753881" lon="-104.881328">
+            <ele>1629</ele>
+            <time>2013-06-25T01:33:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>168.9400064</gpxdata:hr>
+               <gpxdata:temp>29.5</gpxdata:temp>
+               <gpxdata:distance>2019.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753902" lon="-104.881204">
+            <ele>1629</ele>
+            <time>2013-06-25T01:33:16.470Z</time>
+            <extensions>
+               <gpxdata:hr>169</gpxdata:hr>
+               <gpxdata:temp>29.5</gpxdata:temp>
+               <gpxdata:distance>2030.13726031523</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753892" lon="-104.881056">
+            <ele>1628.0599936</ele>
+            <time>2013-06-25T01:33:21.470Z</time>
+            <extensions>
+               <gpxdata:hr>168</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2042.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753981" lon="-104.880941">
+            <ele>1628</ele>
+            <time>2013-06-25T01:33:31.470Z</time>
+            <extensions>
+               <gpxdata:hr>168</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2056.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754098" lon="-104.880945">
+            <ele>1628</ele>
+            <time>2013-06-25T01:33:39.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.1199872</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2069.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.7542" lon="-104.880954">
+            <ele>1628</ele>
+            <time>2013-06-25T01:33:47.470Z</time>
+            <extensions>
+               <gpxdata:hr>159.0599936</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2081.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754295" lon="-104.880952">
+            <ele>1628</ele>
+            <time>2013-06-25T01:33:54.470Z</time>
+            <extensions>
+               <gpxdata:hr>157.0599936</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2091.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754376" lon="-104.880953">
+            <ele>1627.96</ele>
+            <time>2013-06-25T01:34:00.570Z</time>
+            <extensions>
+               <gpxdata:hr>153.96</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2092.36</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754458" lon="-104.880957">
+            <ele>1627</ele>
+            <time>2013-06-25T01:34:06.570Z</time>
+            <extensions>
+               <gpxdata:hr>150.96</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2101.36</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75454" lon="-104.881009">
+            <ele>1627</ele>
+            <time>2013-06-25T01:34:13.570Z</time>
+            <extensions>
+               <gpxdata:hr>148</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2110.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754549" lon="-104.88112">
+            <ele>1627</ele>
+            <time>2013-06-25T01:34:19.570Z</time>
+            <extensions>
+               <gpxdata:hr>147</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2120.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754546" lon="-104.881243">
+            <ele>1629</ele>
+            <time>2013-06-25T01:34:26.550Z</time>
+            <extensions>
+               <gpxdata:hr>145</gpxdata:hr>
+               <gpxdata:temp>29.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2130</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754546" lon="-104.881331">
+            <ele>1628</ele>
+            <time>2013-06-25T01:34:31.570Z</time>
+            <extensions>
+               <gpxdata:hr>143.96</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2140.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754547" lon="-104.881433">
+            <ele>1628</ele>
+            <time>2013-06-25T01:34:37.570Z</time>
+            <extensions>
+               <gpxdata:hr>142</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2148.36</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754551" lon="-104.881574">
+            <ele>1628</ele>
+            <time>2013-06-25T01:34:45.570Z</time>
+            <extensions>
+               <gpxdata:hr>140</gpxdata:hr>
+               <gpxdata:temp>29.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2157.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754551" lon="-104.881699">
+            <ele>1628</ele>
+            <time>2013-06-25T01:34:52.570Z</time>
+            <extensions>
+               <gpxdata:hr>137</gpxdata:hr>
+               <gpxdata:temp>29.5</gpxdata:temp>
+               <gpxdata:distance>2169.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75455" lon="-104.881861">
+            <ele>1628</ele>
+            <time>2013-06-25T01:35:01.420Z</time>
+            <extensions>
+               <gpxdata:hr>135</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>2191.42869830987</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754551" lon="-104.881969">
+            <ele>1628</ele>
+            <time>2013-06-25T01:35:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>135</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>2202.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754551" lon="-104.882054">
+            <ele>1629</ele>
+            <time>2013-06-25T01:35:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>134</gpxdata:hr>
+               <gpxdata:temp>29.6000003814697</gpxdata:temp>
+               <gpxdata:distance>2209.5800448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754546" lon="-104.882197">
+            <ele>1629</ele>
+            <time>2013-06-25T01:35:20.470Z</time>
+            <extensions>
+               <gpxdata:hr>134</gpxdata:hr>
+               <gpxdata:temp>29.6940013800537</gpxdata:temp>
+               <gpxdata:distance>2221.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754545" lon="-104.882308">
+            <ele>1629</ele>
+            <time>2013-06-25T01:35:26.470Z</time>
+            <extensions>
+               <gpxdata:hr>133</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>2231.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754546" lon="-104.88242">
+            <ele>1629</ele>
+            <time>2013-06-25T01:35:32.470Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>2240.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754542" lon="-104.882552">
+            <ele>1628.0599936</ele>
+            <time>2013-06-25T01:35:39.470Z</time>
+            <extensions>
+               <gpxdata:hr>128.0599936</gpxdata:hr>
+               <gpxdata:temp>29.7000007629395</gpxdata:temp>
+               <gpxdata:distance>2251.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754537" lon="-104.882688">
+            <ele>1628</ele>
+            <time>2013-06-25T01:35:46.470Z</time>
+            <extensions>
+               <gpxdata:hr>127</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2263.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75454" lon="-104.882825">
+            <ele>1628</ele>
+            <time>2013-06-25T01:35:53.570Z</time>
+            <extensions>
+               <gpxdata:hr>128</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2264.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754537" lon="-104.882965">
+            <ele>1628</ele>
+            <time>2013-06-25T01:36:00.570Z</time>
+            <extensions>
+               <gpxdata:hr>126.96</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2276.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754541" lon="-104.883095">
+            <ele>1628</ele>
+            <time>2013-06-25T01:36:07.570Z</time>
+            <extensions>
+               <gpxdata:hr>129.039215440217</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2288.43136984239</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754544" lon="-104.883226">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:13.570Z</time>
+            <extensions>
+               <gpxdata:hr>129.08</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2299.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754544" lon="-104.883354">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:18.570Z</time>
+            <extensions>
+               <gpxdata:hr>134.04</gpxdata:hr>
+               <gpxdata:temp>29.7999992370605</gpxdata:temp>
+               <gpxdata:distance>2310.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754559" lon="-104.883511">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:25.610Z</time>
+            <extensions>
+               <gpxdata:hr>139</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>2321</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754563" lon="-104.883658">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:31.570Z</time>
+            <extensions>
+               <gpxdata:hr>140.04</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>2335.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754556" lon="-104.883813">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:37.570Z</time>
+            <extensions>
+               <gpxdata:hr>146.04</gpxdata:hr>
+               <gpxdata:temp>29.8999996185303</gpxdata:temp>
+               <gpxdata:distance>2347.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754554" lon="-104.883967">
+            <ele>1629</ele>
+            <time>2013-06-25T01:36:43.570Z</time>
+            <extensions>
+               <gpxdata:hr>146.04</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>2360.56</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754571" lon="-104.884093">
+            <ele>1629</ele>
+            <time>2013-06-25T01:36:48.570Z</time>
+            <extensions>
+               <gpxdata:hr>147</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>2374.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754577" lon="-104.884199">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:52.570Z</time>
+            <extensions>
+               <gpxdata:hr>149</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>2384.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754575" lon="-104.884329">
+            <ele>1630</ele>
+            <time>2013-06-25T01:36:57.570Z</time>
+            <extensions>
+               <gpxdata:hr>151.04</gpxdata:hr>
+               <gpxdata:temp>30</gpxdata:temp>
+               <gpxdata:distance>2394.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754568" lon="-104.884456">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:02.570Z</time>
+            <extensions>
+               <gpxdata:hr>152.96</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2405.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754558" lon="-104.884588">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:07.570Z</time>
+            <extensions>
+               <gpxdata:hr>153.96</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2416.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754526" lon="-104.884704">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:12.570Z</time>
+            <extensions>
+               <gpxdata:hr>154</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2427.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754508" lon="-104.884822">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:17.570Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2438.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754484" lon="-104.884958">
+            <ele>1628</ele>
+            <time>2013-06-25T01:37:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>158</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2448.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754453" lon="-104.885079">
+            <ele>1628</ele>
+            <time>2013-06-25T01:37:28.570Z</time>
+            <extensions>
+               <gpxdata:hr>160</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2460.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754439" lon="-104.88521">
+            <ele>1628</ele>
+            <time>2013-06-25T01:37:33.570Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2471</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754442" lon="-104.885363">
+            <ele>1628</ele>
+            <time>2013-06-25T01:37:39.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2494.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75446" lon="-104.885522">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:45.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2508.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754478" lon="-104.885678">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:51.570Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2509.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754531" lon="-104.885852">
+            <ele>1629</ele>
+            <time>2013-06-25T01:37:58.570Z</time>
+            <extensions>
+               <gpxdata:hr>161.960784559783</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2522.62744704347</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754547" lon="-104.886001">
+            <ele>1629</ele>
+            <time>2013-06-25T01:38:04.570Z</time>
+            <extensions>
+               <gpxdata:hr>161.04</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2538.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75455" lon="-104.886149">
+            <ele>1629.04</ele>
+            <time>2013-06-25T01:38:10.570Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2551.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754551" lon="-104.886282">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:15.570Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2564.43136984239</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754545" lon="-104.88643">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:21.570Z</time>
+            <extensions>
+               <gpxdata:hr>163.96</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2575.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754548" lon="-104.886582">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:27.570Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2588.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754549" lon="-104.886713">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:32.570Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2601.40740740741</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754544" lon="-104.886848">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:37.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2623.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754539" lon="-104.887014">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:43.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2637.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754543" lon="-104.887172">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:49.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.0599936</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2650.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754547" lon="-104.887339">
+            <ele>1630</ele>
+            <time>2013-06-25T01:38:55.470Z</time>
+            <extensions>
+               <gpxdata:hr>164.9400064</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>2665.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754552" lon="-104.887512">
+            <ele>1629.0599936</ele>
+            <time>2013-06-25T01:39:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.9400064</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2680.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754547" lon="-104.887673">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2693.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754537" lon="-104.887836">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:13.470Z</time>
+            <extensions>
+               <gpxdata:hr>165</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2707.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754545" lon="-104.887991">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>163.0599936</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2721.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754547" lon="-104.888136">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:33.370Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2731.8399232</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754557" lon="-104.888292">
+            <ele>1629.9400064</ele>
+            <time>2013-06-25T01:39:41.470Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2746.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754556" lon="-104.888466">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:51.420Z</time>
+            <extensions>
+               <gpxdata:hr>153</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2760.31646247486</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754564" lon="-104.888614">
+            <ele>1629</ele>
+            <time>2013-06-25T01:39:59.470Z</time>
+            <extensions>
+               <gpxdata:hr>150.078430880434</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2773.98039855436</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754564" lon="-104.88878">
+            <ele>1627</ele>
+            <time>2013-06-25T01:40:08.470Z</time>
+            <extensions>
+               <gpxdata:hr>146</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2788.1600896</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754572" lon="-104.888929">
+            <ele>1628</ele>
+            <time>2013-06-25T01:40:16.470Z</time>
+            <extensions>
+               <gpxdata:hr>144.078430880434</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2800.98039855436</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754573" lon="-104.889068">
+            <ele>1629</ele>
+            <time>2013-06-25T01:40:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>140</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2812.44451555556</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754572" lon="-104.88921">
+            <ele>1629</ele>
+            <time>2013-06-25T01:40:30.570Z</time>
+            <extensions>
+               <gpxdata:hr>139</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2814.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75457" lon="-104.889351">
+            <ele>1629</ele>
+            <time>2013-06-25T01:40:37.570Z</time>
+            <extensions>
+               <gpxdata:hr>138</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2826.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754576" lon="-104.88948">
+            <ele>1628</ele>
+            <time>2013-06-25T01:40:44.570Z</time>
+            <extensions>
+               <gpxdata:hr>136</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2838.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754577" lon="-104.889603">
+            <ele>1629</ele>
+            <time>2013-06-25T01:40:51.570Z</time>
+            <extensions>
+               <gpxdata:hr>137</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2849.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75458" lon="-104.889733">
+            <ele>1629</ele>
+            <time>2013-06-25T01:40:58.570Z</time>
+            <extensions>
+               <gpxdata:hr>134</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2860.43136984239</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754581" lon="-104.889867">
+            <ele>1628</ele>
+            <time>2013-06-25T01:41:05.570Z</time>
+            <extensions>
+               <gpxdata:hr>133</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2871.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754581" lon="-104.889997">
+            <ele>1628</ele>
+            <time>2013-06-25T01:41:12.570Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2882.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754579" lon="-104.890108">
+            <ele>1628</ele>
+            <time>2013-06-25T01:41:18.570Z</time>
+            <extensions>
+               <gpxdata:hr>128.04</gpxdata:hr>
+               <gpxdata:temp>30.1000003814697</gpxdata:temp>
+               <gpxdata:distance>2893.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75458" lon="-104.890244">
+            <ele>1628</ele>
+            <time>2013-06-25T01:41:25.560Z</time>
+            <extensions>
+               <gpxdata:hr>132.0300032</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2903.3600384</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754588" lon="-104.890348">
+            <ele>1629</ele>
+            <time>2013-06-25T01:41:31.550Z</time>
+            <extensions>
+               <gpxdata:hr>132</gpxdata:hr>
+               <gpxdata:temp>30.2000007629395</gpxdata:temp>
+               <gpxdata:distance>2915</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754583" lon="-104.89045">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:00.530Z</time>
+            <extensions>
+               <gpxdata:hr>123</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2923</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754587" lon="-104.890592">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>124</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2943.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754596" lon="-104.890708">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:14.470Z</time>
+            <extensions>
+               <gpxdata:hr>125.0599936</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2953.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754593" lon="-104.89083">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:20.480Z</time>
+            <extensions>
+               <gpxdata:hr>121.0499968</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2964.4500352</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754575" lon="-104.890958">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:27.470Z</time>
+            <extensions>
+               <gpxdata:hr>116.0599936</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2975.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754554" lon="-104.891096">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:34.420Z</time>
+            <extensions>
+               <gpxdata:hr>118.887751103681</gpxdata:hr>
+               <gpxdata:temp>30.2999992370605</gpxdata:temp>
+               <gpxdata:distance>2986.65301324417</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754507" lon="-104.891236">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:41.470Z</time>
+            <extensions>
+               <gpxdata:hr>122</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3000.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754464" lon="-104.891358">
+            <ele>1629</ele>
+            <time>2013-06-25T01:42:47.470Z</time>
+            <extensions>
+               <gpxdata:hr>121.0599936</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3011.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754435" lon="-104.891484">
+            <ele>1626</ele>
+            <time>2013-06-25T01:42:53.470Z</time>
+            <extensions>
+               <gpxdata:hr>123</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3023.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754448" lon="-104.891594">
+            <ele>1626</ele>
+            <time>2013-06-25T01:42:58.470Z</time>
+            <extensions>
+               <gpxdata:hr>123</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3032.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754472" lon="-104.891723">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:04.570Z</time>
+            <extensions>
+               <gpxdata:hr>123.96</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3033.48</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75449" lon="-104.891824">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:09.570Z</time>
+            <extensions>
+               <gpxdata:hr>124.04</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3045.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.7545" lon="-104.891944">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:15.570Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.3999996185303</gpxdata:temp>
+               <gpxdata:distance>3053.43136984239</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.7545" lon="-104.892062">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:21.570Z</time>
+            <extensions>
+               <gpxdata:hr>125</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3064.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754504" lon="-104.892187">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:27.570Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3074.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754502" lon="-104.892304">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:33.550Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3085</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754492" lon="-104.892425">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:38.570Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3095.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754476" lon="-104.892552">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:43.570Z</time>
+            <extensions>
+               <gpxdata:hr>134.04</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3105.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754464" lon="-104.89266">
+            <ele>1626</ele>
+            <time>2013-06-25T01:43:47.610Z</time>
+            <extensions>
+               <gpxdata:hr>138</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3116</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75444" lon="-104.892804">
+            <ele>1627</ele>
+            <time>2013-06-25T01:43:53.570Z</time>
+            <extensions>
+               <gpxdata:hr>144.04</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3125.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754394" lon="-104.89294">
+            <ele>1627</ele>
+            <time>2013-06-25T01:43:59.570Z</time>
+            <extensions>
+               <gpxdata:hr>145.020401765889</gpxdata:hr>
+               <gpxdata:temp>30.5020401843716</gpxdata:temp>
+               <gpxdata:distance>3138.26522295656</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754345" lon="-104.893085">
+            <ele>1626</ele>
+            <time>2013-06-25T01:44:05.420Z</time>
+            <extensions>
+               <gpxdata:hr>146.88776416499</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3162.54093414488</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754292" lon="-104.893215">
+            <ele>1626.9400064</ele>
+            <time>2013-06-25T01:44:11.470Z</time>
+            <extensions>
+               <gpxdata:hr>148</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3176.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754231" lon="-104.893348">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:17.420Z</time>
+            <extensions>
+               <gpxdata:hr>150</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3188.54093414488</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754167" lon="-104.893476">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>152</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3202.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754099" lon="-104.89358">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:28.470Z</time>
+            <extensions>
+               <gpxdata:hr>154.9400064</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3214.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.754043" lon="-104.893657">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:32.470Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3223.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753987" lon="-104.893732">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:36.470Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3232.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753928" lon="-104.893803">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:40.470Z</time>
+            <extensions>
+               <gpxdata:hr>157</gpxdata:hr>
+               <gpxdata:temp>30.6939407998143</gpxdata:temp>
+               <gpxdata:distance>3241.45460539926</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75387" lon="-104.893869">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:44.470Z</time>
+            <extensions>
+               <gpxdata:hr>157.0599936</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3249.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753811" lon="-104.893936">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:48.470Z</time>
+            <extensions>
+               <gpxdata:hr>158</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3258.4600576</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753731" lon="-104.893994">
+            <ele>1627</ele>
+            <time>2013-06-25T01:44:53.470Z</time>
+            <extensions>
+               <gpxdata:hr>158.0599936</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3268.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753603" lon="-104.893956">
+            <ele>1627</ele>
+            <time>2013-06-25T01:45:00.420Z</time>
+            <extensions>
+               <gpxdata:hr>158.112248896319</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3282.31626655521</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753488" lon="-104.893863">
+            <ele>1626</ele>
+            <time>2013-06-25T01:45:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3298.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75341" lon="-104.893804">
+            <ele>1626</ele>
+            <time>2013-06-25T01:45:12.470Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3308.21569119566</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753321" lon="-104.893744">
+            <ele>1626</ele>
+            <time>2013-06-25T01:45:17.420Z</time>
+            <extensions>
+               <gpxdata:hr>159</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3318.7654058149</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75322" lon="-104.893665">
+            <ele>1627</ele>
+            <time>2013-06-25T01:45:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>160</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3332.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.753112" lon="-104.893578">
+            <ele>1627</ele>
+            <time>2013-06-25T01:45:29.470Z</time>
+            <extensions>
+               <gpxdata:hr>161.921569119566</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3345.90196767393</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752978" lon="-104.893469">
+            <ele>1627</ele>
+            <time>2013-06-25T01:45:37.470Z</time>
+            <extensions>
+               <gpxdata:hr>162.9400064</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3363.9201152</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75286" lon="-104.893379">
+            <ele>1627</ele>
+            <time>2013-06-25T01:45:44.480Z</time>
+            <extensions>
+               <gpxdata:hr>163</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3379.250048</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752744" lon="-104.893296">
+            <ele>1626.16326637235</ele>
+            <time>2013-06-25T01:45:51.370Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3392.55100441472</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752618" lon="-104.893213">
+            <ele>1626</ele>
+            <time>2013-06-25T01:45:58.470Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3410.0401024</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752506" lon="-104.893138">
+            <ele>1626</ele>
+            <time>2013-06-25T01:46:04.570Z</time>
+            <extensions>
+               <gpxdata:hr>162.04</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3411.56</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75242" lon="-104.893071">
+            <ele>1626</ele>
+            <time>2013-06-25T01:46:09.560Z</time>
+            <extensions>
+               <gpxdata:hr>163.9699968</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3425.3300352</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752315" lon="-104.892991">
+            <ele>1627</ele>
+            <time>2013-06-25T01:46:15.570Z</time>
+            <extensions>
+               <gpxdata:hr>164</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3436.50980072282</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752177" lon="-104.892909">
+            <ele>1627</ele>
+            <time>2013-06-25T01:46:22.570Z</time>
+            <extensions>
+               <gpxdata:hr>164.04</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3449.68</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.752044" lon="-104.89285">
+            <ele>1627</ele>
+            <time>2013-06-25T01:46:29.570Z</time>
+            <extensions>
+               <gpxdata:hr>164.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3466.64</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751901" lon="-104.89285">
+            <ele>1627</ele>
+            <time>2013-06-25T01:46:35.570Z</time>
+            <extensions>
+               <gpxdata:hr>165.04</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3482.64</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751763" lon="-104.892854">
+            <ele>1628</ele>
+            <time>2013-06-25T01:46:41.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3498.6</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751628" lon="-104.89285">
+            <ele>1628</ele>
+            <time>2013-06-25T01:46:47.580Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3513.750144</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751491" lon="-104.892843">
+            <ele>1628</ele>
+            <time>2013-06-25T01:46:54.550Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>3528</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751351" lon="-104.892833">
+            <ele>1628</ele>
+            <time>2013-06-25T01:47:00.570Z</time>
+            <extensions>
+               <gpxdata:hr>166.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3543.64</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751197" lon="-104.892832">
+            <ele>1628</ele>
+            <time>2013-06-25T01:47:07.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3559.68</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.751064" lon="-104.892835">
+            <ele>1628</ele>
+            <time>2013-06-25T01:47:13.570Z</time>
+            <extensions>
+               <gpxdata:hr>166.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3576.6</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750956" lon="-104.892891">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:19.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3591.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750935" lon="-104.893058">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:24.560Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3604.4200448</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750922" lon="-104.89321">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:29.570Z</time>
+            <extensions>
+               <gpxdata:hr>166.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3618.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750925" lon="-104.893413">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:37.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3631.54551096401</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75091" lon="-104.893595">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:44.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3649.58823160325</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750913" lon="-104.89376">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:50.610Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3664</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750899" lon="-104.893935">
+            <ele>1629</ele>
+            <time>2013-06-25T01:47:57.570Z</time>
+            <extensions>
+               <gpxdata:hr>166</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3679.6</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750781" lon="-104.893976">
+            <ele>1629</ele>
+            <time>2013-06-25T01:48:07.570Z</time>
+            <extensions>
+               <gpxdata:hr>163.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3694.52</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750687" lon="-104.893973">
+            <ele>1629</ele>
+            <time>2013-06-25T01:48:14.570Z</time>
+            <extensions>
+               <gpxdata:hr>162</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3707.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750586" lon="-104.893957">
+            <ele>1629</ele>
+            <time>2013-06-25T01:48:22.570Z</time>
+            <extensions>
+               <gpxdata:hr>160.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3718.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750493" lon="-104.893954">
+            <ele>1629</ele>
+            <time>2013-06-25T01:48:29.570Z</time>
+            <extensions>
+               <gpxdata:hr>157.96</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3729.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750396" lon="-104.893956">
+            <ele>1630</ele>
+            <time>2013-06-25T01:48:36.550Z</time>
+            <extensions>
+               <gpxdata:hr>156</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3739</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.75031" lon="-104.893972">
+            <ele>1630</ele>
+            <time>2013-06-25T01:48:42.570Z</time>
+            <extensions>
+               <gpxdata:hr>153</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3750.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750209" lon="-104.894015">
+            <ele>1630</ele>
+            <time>2013-06-25T01:48:49.570Z</time>
+            <extensions>
+               <gpxdata:hr>149</gpxdata:hr>
+               <gpxdata:temp>30.5960788224885</gpxdata:temp>
+               <gpxdata:distance>3760.4705852826</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750111" lon="-104.894046">
+            <ele>1630</ele>
+            <time>2013-06-25T01:48:56.570Z</time>
+            <extensions>
+               <gpxdata:hr>147.96</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3772.44</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.750008" lon="-104.894037">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:03.470Z</time>
+            <extensions>
+               <gpxdata:hr>144</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3793.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749919" lon="-104.894026">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:09.470Z</time>
+            <extensions>
+               <gpxdata:hr>141</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3803.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749814" lon="-104.894023">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:16.470Z</time>
+            <extensions>
+               <gpxdata:hr>138.078430880434</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3815.0588294348</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749711" lon="-104.894023">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:23.470Z</time>
+            <extensions>
+               <gpxdata:hr>138</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3827.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749621" lon="-104.894018">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:29.560Z</time>
+            <extensions>
+               <gpxdata:hr>137.9399936</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3828.300032</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749532" lon="-104.894034">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:35.570Z</time>
+            <extensions>
+               <gpxdata:hr>135</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3838.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749458" lon="-104.89403">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:40.570Z</time>
+            <extensions>
+               <gpxdata:hr>132</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3848.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749367" lon="-104.894032">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:46.560Z</time>
+            <extensions>
+               <gpxdata:hr>131</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3856.300032</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749291" lon="-104.894032">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:51.570Z</time>
+            <extensions>
+               <gpxdata:hr>131</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3866.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749219" lon="-104.894033">
+            <ele>1631</ele>
+            <time>2013-06-25T01:49:56.570Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3874.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749149" lon="-104.894043">
+            <ele>1631.9907437037</ele>
+            <time>2013-06-25T01:50:01.600Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3882</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749077" lon="-104.894044">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:06.570Z</time>
+            <extensions>
+               <gpxdata:hr>129</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3890.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.749005" lon="-104.894045">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:11.570Z</time>
+            <extensions>
+               <gpxdata:hr>128.04</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3898.32</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748916" lon="-104.894042">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:17.530Z</time>
+            <extensions>
+               <gpxdata:hr>131</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3906</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748824" lon="-104.894041">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:23.570Z</time>
+            <extensions>
+               <gpxdata:hr>132</gpxdata:hr>
+               <gpxdata:temp>30.5</gpxdata:temp>
+               <gpxdata:distance>3916.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748736" lon="-104.894046">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:29.570Z</time>
+            <extensions>
+               <gpxdata:hr>133</gpxdata:hr>
+               <gpxdata:temp>30.5040000152588</gpxdata:temp>
+               <gpxdata:distance>3926.4</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748631" lon="-104.894046">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:36.420Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3946.65301324417</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748538" lon="-104.894051">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:42.470Z</time>
+            <extensions>
+               <gpxdata:hr>130.0599936</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3957.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748436" lon="-104.894057">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:49.470Z</time>
+            <extensions>
+               <gpxdata:hr>126.9400064</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3969.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748346" lon="-104.894049">
+            <ele>1632</ele>
+            <time>2013-06-25T01:50:55.470Z</time>
+            <extensions>
+               <gpxdata:hr>126.0599936</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3979.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748255" lon="-104.894047">
+            <ele>1632</ele>
+            <time>2013-06-25T01:51:01.470Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>3989.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748152" lon="-104.894047">
+            <ele>1632</ele>
+            <time>2013-06-25T01:51:08.470Z</time>
+            <extensions>
+               <gpxdata:hr>127.9400064</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>4000.3400704</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.748047" lon="-104.894048">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:15.470Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>4012.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747938" lon="-104.894049">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:22.470Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>4024.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747829" lon="-104.894044">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:29.470Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.6000003814697</gpxdata:temp>
+               <gpxdata:distance>4036.2800768</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747716" lon="-104.894049">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:37.470Z</time>
+            <extensions>
+               <gpxdata:hr>126.9400064</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>4049.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747614" lon="-104.894057">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:44.420Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>4059.76526214049</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747519" lon="-104.894066">
+            <ele>1633</ele>
+            <time>2013-06-25T01:51:50.470Z</time>
+            <extensions>
+               <gpxdata:hr>125</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>4071.13726031523</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747425" lon="-104.894077">
+            <ele>1632</ele>
+            <time>2013-06-25T01:52:02.470Z</time>
+            <extensions>
+               <gpxdata:hr>128</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>4081.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747355" lon="-104.894086">
+            <ele>1632</ele>
+            <time>2013-06-25T01:52:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>126</gpxdata:hr>
+               <gpxdata:temp>30.7000007629395</gpxdata:temp>
+               <gpxdata:distance>4089.5200512</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747328" lon="-104.894195">
+            <ele>1632.0599936</ele>
+            <time>2013-06-25T01:52:13.470Z</time>
+            <extensions>
+               <gpxdata:hr>125</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4099.400064</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747326" lon="-104.894355">
+            <ele>1632</ele>
+            <time>2013-06-25T01:52:22.470Z</time>
+            <extensions>
+               <gpxdata:hr>126.9400064</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4112.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747322" lon="-104.894504">
+            <ele>1632</ele>
+            <time>2013-06-25T01:52:29.460Z</time>
+            <extensions>
+               <gpxdata:hr>127</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4125.0899584</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747319" lon="-104.894686">
+            <ele>1633</ele>
+            <time>2013-06-25T01:52:38.470Z</time>
+            <extensions>
+               <gpxdata:hr>128.0599936</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4141.0401024</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747306" lon="-104.894865">
+            <ele>1633</ele>
+            <time>2013-06-25T01:52:47.470Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4156.100096</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747293" lon="-104.895067">
+            <ele>1633</ele>
+            <time>2013-06-25T01:52:58.470Z</time>
+            <extensions>
+               <gpxdata:hr>129</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4173.9201152</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747172" lon="-104.895105">
+            <ele>1633</ele>
+            <time>2013-06-25T01:53:07.470Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4187.2200832</gpxdata:distance>
+            </extensions>
+         </trkpt>
+         <trkpt lat="39.747156" lon="-104.895106">
+            <ele>1633</ele>
+            <time>2013-06-25T01:53:08.690Z</time>
+            <extensions>
+               <gpxdata:hr>130</gpxdata:hr>
+               <gpxdata:temp>30.7999992370605</gpxdata:temp>
+               <gpxdata:distance>4188</gpxdata:distance>
+            </extensions>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>
