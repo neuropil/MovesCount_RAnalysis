@@ -1,4 +1,4 @@
-rankall <- function(csvFile, gpxFile = FALSE, kmlFile = FALSE, gender = "M", weight = 146, age = 33, HR.mode = "calculate"){
+rankall <- function(xlsxFile, gpxFile = FALSE, kmlFile = FALSE, gender = "M", weight = 146, age = 33, RestHR.mode = "calculate", MaxHR.mode = "generic"){
 
 library(rgdal)
 library(maptools)
@@ -11,15 +11,15 @@ library(stringr)
 
 # Use temporary GPX file while creating
 
-gpxFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.gpx"
-kmlFile = "Move_2013_05_31_19_14_34_ACT_RUNNING.kml"
+gpxFile = "Move_2013_05_31_19_14_34.gpx"
+kmlFile = "Move_2013_05_31_19_14_34.kml"
 
 
 ########### CHECK INPUTS #################################
 
 # Get File Names for KML file and/or GPS file if requested
 
-fileTitle = unlist(strsplit(file,split=".csv"))
+fileTitle = unlist(strsplit(xlsxFile,split=".xlsx"))
 
 if (gpxFile = TRUE){
   gpxFile = str_join(fileTitle,".gpx")
@@ -106,11 +106,15 @@ nonzero.Indices <- which(minute.MoveData$Speed != 0 & minute.MoveData$HeartRate 
 minute.MoveData <- minute.MoveData[nonzero.Indices,]
 # 3. Combine non-zero rows with gps data
 
+
+if(gpxFile = TRUE){ 
+
 # Get GPS or KML row indices
 gps.rows = round(seq(1,nrow(kmlMat),length = nrow(minute.MoveData)))
 
 # Add gps rows to Dataframe: longitude is column 1 and latitude is column 2
 minute.MoveData <- data.frame(Long = gpsMat[gps.rows,1], Lat = gpsMat[gps.rows, 2], minute.MoveData)
+}
 
 # 4. Calculate new columns
 #    a. Speed (miles per hour) speed multiplied by miles per hour 
@@ -141,45 +145,42 @@ for(fi in 1:nrow(minute.MoveData)){
 
 # Add new features to DATAFRAME
 
+# Combine into DATAFRAME
 
+# GET HEART RATE ZONES AND ADD FACTOR COLUMN TO DATAFRAME
+if(as.integer(RestHR.mode)){
+  restHR = RestHR.mode
+} else if (RestHR.mode == 'calculate'){
+  restHR = mean(minute.MoveData$HeartRate[1:2])
+}
 
-
-
-
-# Extract values of interest
-
-MAX_HR = max(moveData$HeartRate)
-
-Rest_HR = mean(moveData$HeartRate[1:10])
-
-Ave_HR = mean(moveData$HeartRate)
+if(as.integer(MaxHR.mode)){
+  maxHR = MaxHR.mode
+} else if(MaxHR.mode == 'generic'){
+  maxHR = 214 - age
+} else if(MaxHR.mode == 'calculate'){
+  maxHR = max(minute.MoveData$HeartRate)
+}
 
 # find heart-rate zones
 
-# Males 214 - Your age = MAx HR
+diffHR = maxHR - restHR
 
 # MAx_HR - Rest_HR = DIFFERENCE
 
 # Difference * (60% range) 0.6
 # Add Rest_HR
+seventy = (diffHR * 0.7) + restHR
+eighty = (diffHR * 0.8) + restHR
+ninty = (diffHR * 0.9) + restHR
+hund = (diffHR * 1) + restHR
 
-# FAT-Buring 70-80%
-# Glycogen buring 80-90%
-# REd Line zone 90-100%
+HRzones = cut(minute.MoveData$HeartRate, breaks = c(0, seventy, eighty, ninty, hund),labels=c('baseline','fat', 'glycogen', 'redline'),include.lowest=TRUE)
 
-
-
-
-VO2_max = 132.853 - (0.0769 * weight) - (0.3877 * age) + (6.315 * g) - (3.2649 * 14.54) - (0.1565 * 133)
-
-# EPOC (an estimated measure of oxygen debt), Respiration, and R-R.
+# Add to dataframe
 
 
-# VO2max = 15.3 * (max HR/rest HR) 
-# MHR = beats/min 208 - (0.7*age)
-# RHR = number of heart beats in 20 seconds * 3
-# VO2 = 132.853 - (0.0769 * Wieght(pounds)) - (0.3877 * Age) + (6.315 * Gender(1 for male)) - (3.2649 * Time (to complete a mile in minutes)) - (0.1565 * Heart Rate)
-# VO2 value (in ml/kg/min)
+
 
 }
 
