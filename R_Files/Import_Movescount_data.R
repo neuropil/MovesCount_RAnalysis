@@ -1,4 +1,6 @@
-rankall <- function(xlsxFile, gpxFile = FALSE, kmlFile = FALSE, gender = "M", weight = 146, age = 33, RestHR.mode = "calculate", MaxHR.mode = "generic"){
+rankall <- function(xlsxFile, gpxFile = FALSE, kmlFile = FALSE, 
+                    gender = "M", weight = 146, age = 33, 
+                    RestHR.mode = "calculate", MaxHR.mode = "generic") {
 
 library(rgdal)
 library(maptools)
